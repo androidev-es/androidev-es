@@ -7,3 +7,13 @@ Espero que este recurso os sirva mucho, no olvidéis darle a la estrellita y seg
 
 ¿Preparad@s? Aprendamos juntos
 
+## INDICE DEL REPOSTIORIO
+### CURSO DE COMPOSE `<link>` : <https://github.com>
+
+Branch   | Description
+------------- | -------------
+master |  Ejercicio completo
+inicio |  Codigo de inicio del video
+finish |  Ejercicio completo
+
+
