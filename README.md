@@ -23,7 +23,7 @@ Espero que este recurso os sirva mucho, no olvidéis darle a la estrellita y seg
 </p>
 
 ## INDICE DEL REPOSTIORIO
-### CURSO DE COMPOSE: Estados 
+### CURSO DE COMPOSE 
 #### Estados
 Branch   | Description
 ------------- | -------------
