@@ -23,7 +23,7 @@ Espero que este recurso os sirva mucho, no olvidéis darle a la estrellita y seg
 </p>
 
 ## INDICE DEL REPOSTIORIO
-### CURSO DE COMPOSE `<link>` : <https://github.com>
+### CURSO DE COMPOSE: Estados `<link>` : <https://github.com>
 
 Branch   | Description
 ------------- | -------------
@@ -31,4 +31,9 @@ master |  Ejercicio completo
 inicio |  Codigo de inicio del video
 finish |  Ejercicio completo
 
+### CURSO DE COMPOSE: Themes `<link>` : <https://github.com>
 
+Branch   | Description
+------------- | -------------
+master |  Codigo de inicio del video
+finish |  Ejercicio completo
